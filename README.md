@@ -37,3 +37,5 @@ Step 2: Initialize using
         <br/>
 Step 3: Display Top 20 news article using Hacker New API
         _> object.showHAckerNews();<br/>
+        
+** Add permission to use internet in Android Manifest file.
